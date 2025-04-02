@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="26.0.16">
   <diagram name="第 1 页" id="z7osBg551vK7a7_rU3qI">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="J65tHBh_XKAVCv8L5d4w-2" value="病人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=27;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="130" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="J65tHBh_XKAVCv8L5d4w-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J65tHBh_XKAVCv8L5d4w-2" target="J65tHBh_XKAVCv8L5d4w-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="260" as="sourcePoint" />
+            <mxPoint x="360" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J65tHBh_XKAVCv8L5d4w-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J65tHBh_XKAVCv8L5d4w-2" target="J65tHBh_XKAVCv8L5d4w-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="293" as="sourcePoint" />
+            <mxPoint x="350" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J65tHBh_XKAVCv8L5d4w-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J65tHBh_XKAVCv8L5d4w-2" target="J65tHBh_XKAVCv8L5d4w-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="359.9966666666666" as="sourcePoint" />
+            <mxPoint x="360" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J65tHBh_XKAVCv8L5d4w-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J65tHBh_XKAVCv8L5d4w-2" target="J65tHBh_XKAVCv8L5d4w-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="339.9966666666666" as="sourcePoint" />
+            <mxPoint x="390" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J65tHBh_XKAVCv8L5d4w-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J65tHBh_XKAVCv8L5d4w-2" target="J65tHBh_XKAVCv8L5d4w-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="296.66666666666663" as="sourcePoint" />
+            <mxPoint x="370" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J65tHBh_XKAVCv8L5d4w-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J65tHBh_XKAVCv8L5d4w-2" target="J65tHBh_XKAVCv8L5d4w-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="350" as="sourcePoint" />
+            <mxPoint x="350" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J65tHBh_XKAVCv8L5d4w-12" value="病历信息" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="170" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J65tHBh_XKAVCv8L5d4w-14" value="医嘱信息" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J65tHBh_XKAVCv8L5d4w-15" value="预约挂号" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J65tHBh_XKAVCv8L5d4w-16" value="检查结果" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="220" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J65tHBh_XKAVCv8L5d4w-17" value="缴费信息" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="370" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J65tHBh_XKAVCv8L5d4w-18" value="用户信息" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="420" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
