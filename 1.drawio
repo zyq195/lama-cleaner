@@ -1,63 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="26.2.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="26.2.12">
   <diagram name="第 1 页" id="CN1bkAVNUNSqw8Xy8RyV">
-    <mxGraphModel dx="1036" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pN44KU4ayDY2uJZS332P-286" value="患者登录系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="266" y="-660" width="156" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="pN44KU4ayDY2uJZS332P-287" value="进入挂号界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="266" y="-556" width="156" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="pN44KU4ayDY2uJZS332P-288" value="选择疾病" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="286.5" y="-460" width="115" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="pN44KU4ayDY2uJZS332P-324" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pN44KU4ayDY2uJZS332P-293" target="pN44KU4ayDY2uJZS332P-288">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pN44KU4ayDY2uJZS332P-293" value="填写症状描述" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="266" y="-320" width="156" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="pN44KU4ayDY2uJZS332P-294" value="提交挂号" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="285" y="-240" width="115" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pN44KU4ayDY2uJZS332P-302" value="推送挂号成功通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-110" width="188" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="pN44KU4ayDY2uJZS332P-304" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pN44KU4ayDY2uJZS332P-286" target="pN44KU4ayDY2uJZS332P-287">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pN44KU4ayDY2uJZS332P-305" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;" edge="1" parent="1" source="pN44KU4ayDY2uJZS332P-287">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="343" y="-460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pN44KU4ayDY2uJZS332P-310" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="pN44KU4ayDY2uJZS332P-288" target="pN44KU4ayDY2uJZS332P-293">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="344" y="-320" />
-            </Array>
-            <mxPoint x="344" y="-334" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pN44KU4ayDY2uJZS332P-311" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pN44KU4ayDY2uJZS332P-293" target="pN44KU4ayDY2uJZS332P-294">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pN44KU4ayDY2uJZS332P-325" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="342" y="-102" />
-            </Array>
-            <mxPoint x="342" y="-160" as="sourcePoint" />
-            <mxPoint x="342" y="-102" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
